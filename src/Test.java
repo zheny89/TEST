@@ -11,6 +11,7 @@ public class Test {
         String str = "192.168.1.250";
         String str2 = "192.168.1.250";
         String str3 = "192.168.1.250";
+        String str4 = "192.168.1.250";
 
         Pattern pattern = Pattern.compile(pat);
         Matcher matcher = pattern.matcher("12.");
